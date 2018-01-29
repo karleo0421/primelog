@@ -703,7 +703,17 @@ li {
 
 .services-section {
     padding-top: 80px;
-    padding-bottom: 20px;
+    padding-bottom: 100px;
+    background: url(../images/parallax/contact-bg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#services{
+    padding-top: 20px;
+    width: 99%;
+    height: auto;
+    text-align: center;
 }
 
 .feature-section {
